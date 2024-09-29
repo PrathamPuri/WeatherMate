@@ -49,8 +49,10 @@ const Weather1 = () => {
   };
 
   const api = {
-    base: "https://api.openweathermap.org/data/2.5",
-  };
+  key: process.env.REACT_APP_WEATHER_API_KEY || 'd002f9cf2965272580b9d7d825711d62',
+  base: "https://api.openweathermap.org/data/2.5",
+};
+
 
   const fetchCurrentWeather = () => {
     fetch(`${api.base}/weather?q=${query}&units=metric&appid=${api.key}`)
