@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/PrathamPuri/WeatherMate.git",
   "name": "weather",
   "version": "0.1.0",
   "private": true,
@@ -16,14 +17,16 @@
     "typed.js": "^2.1.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/PrathamPuri/WeatherMate.git",
+ 
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build": "cross-env REACT_APP_WEATHER_API_KEY=d002f9cf2965272580b9d7d825711d62 react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build":"react-scripts build"
+    
+    
   },
   "eslintConfig": {
     "extends": [
