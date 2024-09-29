@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="sun">
+  <path d="M32,49A17,17,0,1,1,49,32,17.019,17.019,0,0,1,32,49Zm0-32A15,15,0,1,0,47,32,15.017,15.017,0,0,0,32,17Z"></path>
+  <rect width="2" height="14" x="31" y="2"></rect>
+  <rect width="2" height="10" x="25.565" y="6.715" transform="rotate(-15 26.566 11.716)"></rect>
+  <rect width="2" height="14" x="19.5" y="5.081" transform="rotate(-30 20.499 12.08)"></rect>
+  <rect width="2" height="10" x="16.151" y="12.151" transform="rotate(-45 17.151 17.15)"></rect>
+  <rect width="2" height="14" x="11.081" y="13.5" transform="rotate(-60 12.081 20.5)"></rect>
+  <rect width="2" height="10" x="10.716" y="21.564" transform="rotate(-75 11.715 26.564)"></rect>
+  <rect width="14" height="2" x="2" y="31"></rect>
+  <rect width="10" height="2" x="6.715" y="36.435" transform="rotate(-15 11.716 37.436)"></rect>
+  <rect width="14" height="2" x="5.081" y="42.5" transform="rotate(-29.995 12.082 43.499)"></rect>
+  <rect width="10" height="2" x="12.151" y="45.849" transform="rotate(-45 17.15 46.849)"></rect>
+  <rect width="14" height="2" x="13.5" y="50.919" transform="rotate(-60.005 20.5 51.92)"></rect>
+  <rect width="10" height="2" x="21.564" y="51.285" transform="rotate(-75 26.565 52.285)"></rect>
+  <rect width="2" height="14" x="31" y="48"></rect>
+  <rect width="2" height="10" x="36.435" y="47.284" transform="rotate(-15 37.437 52.286)"></rect>
+  <rect width="2" height="14" x="42.5" y="44.919" transform="rotate(-30 43.499 51.917)"></rect>
+  <rect width="2" height="10" x="45.849" y="41.849" transform="rotate(-45 46.849 46.85)"></rect>
+  <rect width="2" height="14" x="50.919" y="36.5" transform="rotate(-60 51.919 43.5)"></rect>
+  <rect width="2" height="10" x="51.285" y="32.435" transform="rotate(-75 52.284 37.436)"></rect>
+  <rect width="14" height="2" x="48" y="31"></rect>
+  <rect width="10" height="2" x="47.284" y="25.565" transform="rotate(-15 52.283 26.565)"></rect>
+  <rect width="14" height="2" x="44.919" y="19.5" transform="rotate(-29.995 51.919 20.5)"></rect>
+  <rect width="10" height="2" x="41.849" y="16.151" transform="rotate(-45 46.85 17.151)"></rect>
+  <rect width="14" height="2" x="36.5" y="11.081" transform="rotate(-60.005 43.5 12.082)"></rect>
+  <rect width="10" height="2" x="32.435" y="10.716" transform="rotate(-75 37.435 11.716)"></rect>
+</svg>

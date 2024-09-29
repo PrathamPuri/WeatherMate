@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PrathamPuri/WeatherMate.git/static/css/main.8999307d.css",
+    "main.js": "/PrathamPuri/WeatherMate.git/static/js/main.0df38f4b.js",
+    "static/media/RainChance.svg": "/PrathamPuri/WeatherMate.git/static/media/RainChance.d11ac346759be643d5b028912ce8b112.svg",
+    "static/media/UvIndex.svg": "/PrathamPuri/WeatherMate.git/static/media/UvIndex.3df94df4c6b1ee553fa425cf99b7c5bb.svg",
+    "static/media/haze.svg": "/PrathamPuri/WeatherMate.git/static/media/haze.89b04064bf6c21cfa35f9c39d03225a6.svg",
+    "static/media/mist.svg": "/PrathamPuri/WeatherMate.git/static/media/mist.0b60387726bc7fb76acd1424c2b8a101.svg",
+    "static/media/tornado.svg": "/PrathamPuri/WeatherMate.git/static/media/tornado.d51f76c6e455701c4ee0f50d357564ea.svg",
+    "static/media/snow.svg": "/PrathamPuri/WeatherMate.git/static/media/snow.214f0bf3ab1f0f4ff3d7d115aded5c5c.svg",
+    "static/media/rain.svg": "/PrathamPuri/WeatherMate.git/static/media/rain.62bb4fe5204de850673a2ab450e27d7d.svg",
+    "static/media/tempFeel.svg": "/PrathamPuri/WeatherMate.git/static/media/tempFeel.74f2b32ec715c554ecbde3abaac8aff2.svg",
+    "index.html": "/PrathamPuri/WeatherMate.git/index.html",
+    "static/media/clear.svg": "/PrathamPuri/WeatherMate.git/static/media/clear.c968c3ec894a237ceec71ae2f42b40e7.svg",
+    "static/media/clouds.svg": "/PrathamPuri/WeatherMate.git/static/media/clouds.8ee597cafd3ecce67b6165fd7b61710d.svg",
+    "static/media/wind.svg": "/PrathamPuri/WeatherMate.git/static/media/wind.1c2f509691037d56b27dac01da26d91d.svg",
+    "main.8999307d.css.map": "/PrathamPuri/WeatherMate.git/static/css/main.8999307d.css.map",
+    "main.0df38f4b.js.map": "/PrathamPuri/WeatherMate.git/static/js/main.0df38f4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8999307d.css",
+    "static/js/main.0df38f4b.js"
+  ]
+}
